@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-10-15 at 13 57 13_93cddf33](https://github.com/user-attachments/assets/055a49e9-1b27-4f7c-b7f2-fac9d6ab09e2)##  6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
+  6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
 
 ## AIM:
 
