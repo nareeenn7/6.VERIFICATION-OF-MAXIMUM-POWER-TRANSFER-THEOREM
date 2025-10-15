@@ -1,4 +1,4 @@
-##  6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
+![WhatsApp Image 2025-10-15 at 13 57 13_93cddf33](https://github.com/user-attachments/assets/055a49e9-1b27-4f7c-b7f2-fac9d6ab09e2)##  6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
 
 ## AIM:
 
@@ -25,7 +25,7 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 ## CIRCUIT DIAGRAM and MODEL GRAPH: FOR MAXIMUM POWER TRANSFER THEOREM:
-![WhatsApp Image 2025-10-12 at 07 21 36_120c9a6a](https://github.com/user-attachments/assets/6bf42a6e-cb17-4793-8faa-09e0c737af15)
+![WhatsApp Image 2025-10-15 at 13 55 51_3974a77a](https://github.com/user-attachments/assets/79849753-3e3f-4a6f-8c91-7b9efaef907f)
 
 **PROCEDURE:**
 
@@ -37,17 +37,19 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 ## TABULATIONS:
-![WhatsApp Image 2025-10-12 at 07 21 54_02bb693f](https://github.com/user-attachments/assets/fdfe19b2-fd2f-4588-8ef2-94c6b566fa3d)
+![WhatsApp Image 2025-10-15 at 13 57 13_d623c5c6](https://github.com/user-attachments/assets/8cd9376a-7883-4ae4-b760-710214924a37)
+
+
 ## CALCULATIONS:
-![WhatsApp Image 2025-10-12 at 07 23 05_e2ca2cb8](https://github.com/user-attachments/assets/d034c39b-97cd-4ec4-8e3f-4722a71e38bf)![WhatsApp Image 2025-10-12 at 07 23 30_776f865e](https://github.com/user-attachments/assets/9e9827cf-9c70-405f-adf4-7c341eca3ac1)![WhatsApp Image 2025-10-12 at 07 30 49_296117ea](https://github.com/user-attachments/assets/742e64cc-593b-4f4e-8396-c434db7ed48e)
+![WhatsApp Image 2025-10-15 at 13 55 51_59c6e752](https://github.com/user-attachments/assets/d83d8976-98e7-4076-a63d-28ece8736870)
 
 ## RESULT:
 
 Thus maximum power transfer theorem is verified practically and theoretically
 
 ## MARK SPLIT UP:
+![WhatsApp Image 2025-10-15 at 13 55 50_9441fbda](https://github.com/user-attachments/assets/ca59afb0-70bb-4d83-a889-0c6293a30241)
 
-![WhatsApp Image 2025-10-12 at 07 22 18_527e2fc2](https://github.com/user-attachments/assets/01607651-8db1-4980-8f9e-dc5d536829cf)
 
 
 
